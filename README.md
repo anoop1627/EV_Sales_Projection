@@ -18,6 +18,6 @@
 - `notebooks/` → Jupyter Notebooks with analysis
 - `data/` → Raw dataset files
 
-## 🛠️ How to Run This Project
+##  How to Run This Project
 1. Clone the repository.
 2. Run the Jupyter notebooks.
